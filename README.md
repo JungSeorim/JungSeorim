@@ -1,4 +1,4 @@
-### 나는 정서림 👋
+### 나는 정서림입니다 👋
 
 <!--
 **JungSeorim/JungSeorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
