@@ -1,4 +1,4 @@
-### 저는 밝고 활발한 개발자입니다 👋
+### 저는 침착하고 신중한 개발자입니다 👋
 
 <!--
 **JungSeorim/JungSeorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
